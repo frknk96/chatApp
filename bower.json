@@ -1,0 +1,10 @@
+{
+  "name": "apodev",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/frknk96/chatApp",
+  "dependencies": {
+    "angular": "^1.7.8"
+  }
+}
